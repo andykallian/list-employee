@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/andykallian/list-employee/static/css/main.5141e1f2.css",
-    "main.js": "/andykallian/list-employee/static/js/main.49d01471.js",
-    "static/js/787.e9a14399.chunk.js": "/andykallian/list-employee/static/js/787.e9a14399.chunk.js",
-    "index.html": "/andykallian/list-employee/index.html",
-    "main.5141e1f2.css.map": "/andykallian/list-employee/static/css/main.5141e1f2.css.map",
-    "main.49d01471.js.map": "/andykallian/list-employee/static/js/main.49d01471.js.map",
-    "787.e9a14399.chunk.js.map": "/andykallian/list-employee/static/js/787.e9a14399.chunk.js.map"
+    "main.css": "/list-employee/static/css/main.5141e1f2.css",
+    "main.js": "/list-employee/static/js/main.ec49c136.js",
+    "static/js/787.e9a14399.chunk.js": "/list-employee/static/js/787.e9a14399.chunk.js",
+    "index.html": "/list-employee/index.html",
+    "main.5141e1f2.css.map": "/list-employee/static/css/main.5141e1f2.css.map",
+    "main.ec49c136.js.map": "/list-employee/static/js/main.ec49c136.js.map",
+    "787.e9a14399.chunk.js.map": "/list-employee/static/js/787.e9a14399.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5141e1f2.css",
-    "static/js/main.49d01471.js"
+    "static/js/main.ec49c136.js"
   ]
 }
